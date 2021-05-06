@@ -1,38 +1,4 @@
-backend:
-  name: git-gateway
-  branch: master
-  commit_messages:
-    create: 'Create {{collection}} “{{slug}}”'
-    update: 'Update {{collection}} “{{slug}}”'
-    delete: 'Delete {{collection}} “{{slug}}”'
-    uploadMedia: '[skip ci] Upload “{{path}}”'
-    deleteMedia: '[skip ci] Delete “{{path}}”'
-
-logo_url: https://d33wubrfki0l68.cloudfront.net/0d91bb8b9dc8d7cafd941dcc99a12cca4e50372d/ea711/images/earli_logo_rgb-kopie-p-500.png
-site_url: https://blog.earli.com
-display_url: https://blog.earli.com
-
-
-media_folder: static/img
-public_folder: /img
-
-collections:
-  - name: "blog"
-    label: "Blog"
-    folder: "src/pages/blog"
-    create: true
-    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
-    fields:
-      - {label: "Template Key", name: "templateKey", widget: "hidden", default: "blog-post"}
-      - {label: "Title", name: "title", widget: "string"}
-      - {label: "Publish Date", name: "date", widget: "datetime"}
-      - {label: "Description", name: "description", widget: "text"}
-      - {label: "Featured Post", name: "featuredpost", widget: "boolean"}
-      - {label: "Featured Image", name: "featuredimage", widget: image}
-      - {label: "Body", name: "body", widget: "markdown"}
-      - {label: "Tags", name: "tags", widget: "list"}
-
-  - name: "pages"
+name: "pages"
     label: "Pages"
     files:
       - file: "src/pages/index.md"
