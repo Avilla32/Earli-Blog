@@ -8,6 +8,8 @@ backend:
     uploadMedia: '[skip ci] Upload “{{path}}”'
     deleteMedia: '[skip ci] Delete “{{path}}”'
 
+logo_url: https://d33wubrfki0l68.cloudfront.net/0d91bb8b9dc8d7cafd941dcc99a12cca4e50372d/ea711/images/earli_logo_rgb-kopie-p-500.png
+
 media_folder: static/img
 public_folder: /img
 
