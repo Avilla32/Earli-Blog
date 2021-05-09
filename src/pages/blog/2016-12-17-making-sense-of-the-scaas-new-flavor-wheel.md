@@ -1,33 +1,22 @@
 ---
 templateKey: blog-post
-title: Making sense of the SCAA’s new Flavor Wheel
-date: 2016-12-17T15:04:10.000Z
+title: Lorem Ipsum
+date: 2021-03-11T15:04:10.000Z
+description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce
+  pulvinar luctus mi vitae tempus. Nulla facilisi. Proin justo nunc, pulvinar ut
+  urna id, finibus porta odio. Aenean vehicula urna at molestie tincidunt.
 featuredpost: false
-featuredimage: /img/flavor_wheel.jpg
-description: The Coffee Taster’s Flavor Wheel, the official resource used by coffee tasters, has been revised for the first time this year.
-tags:
-  - flavor
-  - tasting
+featuredimage: /img/earli-header.jpg
+tags: []
 ---
-![flavor wheel](/img/flavor_wheel.jpg)
 
-The SCAA updated the wheel to reflect the finer nuances needed to describe flavors more precisely. The new descriptions are more detailed and hence allow cuppers to distinguish between more flavors.
 
-While this is going to be a big change for professional coffee tasters, it means a lot to you as a consumer as well. We’ll explain how the wheel came to be, how pros use it and what the flavors actually mean.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce pulvinar luctus mi vitae tempus. Nulla facilisi. Proin justo nunc, pulvinar ut urna id, finibus porta odio. Aenean vehicula urna at molestie tincidunt. Nam a gravida erat. Aenean nec neque eros. Nunc interdum tristique erat in pulvinar. Etiam congue nibh neque. Morbi lacus tellus, faucibus a lobortis vel, malesuada elementum eros. Quisque tempus pharetra erat. Aliquam maximus posuere nisi, quis sollicitudin felis malesuada facilisis. Donec pulvinar quam tortor, a molestie urna volutpat in. Vestibulum dictum velit eu massa lobortis pretium. Aenean a nisi augue. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse a semper felis, sed luctus felis.
 
-## What the updates mean to you
+Mauris elementum enim et elit finibus, id euismod est molestie. Mauris nec hendrerit mi. Nullam aliquam volutpat nunc vel pulvinar. Nullam ornare egestas justo, at luctus nisl pharetra eget. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Integer urna magna, varius eget lobortis nec, tincidunt viverra risus. Aenean pretium leo quis massa iaculis, ac ultrices libero rhoncus. Praesent porta mi ut convallis aliquam. Maecenas posuere nec dui nec posuere. Nunc egestas libero nulla, in pretium ex luctus nec. In eu sem vel eros commodo tristique quis a odio. Mauris sollicitudin massa laoreet pretium rutrum. Proin ultrices ultrices imperdiet. Aenean sagittis bibendum aliquet. Donec lobortis id augue eu suscipit. Nam nec orci ac elit tempor faucibus.
 
-The Specialty Coffee Association of America (SCAA), founded in 1982, is a non-profit trade organization for the specialty coffee industry. With members located in more than 40 countries, SCAA represents every segment of the specialty coffee industry, including:
+Nam porta, velit at placerat blandit, leo purus accumsan metus, in dignissim ante dolor sit amet urna. Fusce rutrum urna vel euismod tristique. Fusce pellentesque consequat metus ac varius. Praesent ullamcorper rutrum augue at hendrerit. Maecenas sit amet orci sed est vestibulum tincidunt. Etiam volutpat nisi eget sodales consequat. Aenean interdum, neque id venenatis imperdiet, quam metus pulvinar enim, nec posuere augue mauris nec dolor. Pellentesque ut tempus magna. Nam consectetur consequat sagittis. Phasellus id erat et dolor ornare lacinia eget id nulla. Maecenas efficitur lobortis nibh in facilisis. In vulputate diam vel arcu ultrices faucibus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Curabitur vel porttitor sapien, nec consequat nisl.
 
-* producers
-* roasters
-* importers/exporters
-* retailers
-* manufacturers
-* baristas
+Morbi ex ante, tristique sed ultricies porttitor, ornare nec mauris. Vestibulum ultricies eleifend sodales. In non placerat ex, vitae feugiat augue. Mauris feugiat convallis sem. Vestibulum sit amet turpis sit amet nisl maximus sollicitudin vitae eleifend odio. Phasellus vulputate, nisi eget malesuada finibus, nulla risus sollicitudin nisi, ac vulputate sapien nisl sed metus. In sed eros est. Duis pretium erat ac finibus dignissim. Maecenas purus est, facilisis vitae porta at, ornare in justo. Ut pulvinar mauris sed ante euismod imperdiet. Vestibulum at aliquet turpis.
 
-For over 30 years, SCAA has been dedicated to creating a vibrant specialty coffee community by recognizing, developing and promoting specialty coffee. SCAA sets and maintains quality standards for the industry, conducts market research, and provides education, training, resources, and business services for its members.
-
-Coffee cupping, or coffee tasting, is the practice of observing the tastes and aromas of brewed coffee. It is a professional practice but can be done informally by anyone or by professionals known as "Q Graders". A standard coffee cupping procedure involves deeply sniffing the coffee, then loudly slurping the coffee so it spreads to the back of the tongue.
-
-The coffee taster attempts to measure aspects of the coffee's taste, specifically the body (the texture or mouthfeel, such as oiliness), sweetness, acidity (a sharp and tangy feeling, like when biting into an orange), flavour (the characters in the cup), and aftertaste. Since coffee beans embody telltale flavours from the region where they were grown, cuppers may attempt to identify the coffee's origin.
+Sed porta non tellus vel posuere. Mauris bibendum tincidunt nisl, non lobortis ipsum vestibulum sit amet. Pellentesque eget blandit orci, vel consequat nibh. Nunc dignissim ligula urna, fringilla pulvinar nulla ultricies ac. Curabitur mauris nunc, sagittis et nulla tincidunt, bibendum efficitur felis. Proin varius dapibus est, id lacinia diam vestibulum et. Donec sollicitudin magna sed consequat hendrerit.
