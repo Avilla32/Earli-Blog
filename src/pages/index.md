@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: Earli Blog
-image: /img/home-jumbotron.jpg
+image: /img/earli-header.jpg
 heading: Earli News
 subheading: Lorem Ipsum Lorem Ipsum
 mainpitch:
