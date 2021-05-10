@@ -7,7 +7,8 @@ description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce
   urna id, finibus porta odio. Aenean vehicula urna at molestie tincidunt
 featuredpost: false
 featuredimage: /img/earli-header.jpg
-tags: []
+tags:
+  - a
 ---
 
 
